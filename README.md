@@ -1,2 +1,2 @@
 # gittest
-This is s test repository
+This is s test python repository
